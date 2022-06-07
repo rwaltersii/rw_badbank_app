@@ -1,0 +1,21 @@
+.card {
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.demo-button {
+  margin-left: 10px;
+}
+
+.demo-button-text {
+  margin-top: 0;
+  margin-bottom: 0;
+}

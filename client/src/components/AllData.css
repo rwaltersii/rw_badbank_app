@@ -1,0 +1,14 @@
+.th-main {
+  text-align: center;
+  font-size: larger;
+  font-weight: normal;
+}
+
+.editicon {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.deleteicon {
+  cursor: pointer;
+}
